@@ -13,14 +13,15 @@ Stack overflow trend requires:
 - Python (>= 3.6)
 - no other library other than Anaconda distribution is needed 
 ## Project Motivation
-answering the question of possible trends in the Stack over-flow data regarding the tools used by the developers.
+Answering the question of possible trends in the Stack over-flow data regarding the tools used by the developers.
 
 ## File Descriptions
-the available notebook to prepare the data from stack-overflow-developer-surveys 2015-2020 for this analyse work.
-the notebook is created in Kaggle and the datas are inported from "Stack Overflow Developer Surveys (2015-2020)"
+The available notebook to prepare the data from stack-overflow-developer-surveys 2015-2020 for this analyse work.
+The notebook is created in Kaggle and the datas are inported from "Stack Overflow Developer Surveys (2015-2020)"
+There is a `.ipynb` data as a copy of the Notebook with nessesary codes and can be finde hier: [here](https://github.com/mrf919/Stack-overflow-trend) 
 
 ## Results
-the findings and the resualts of the code is availble [here](https://medium.com/@m.r.farhood/is-there-any-trend-change-in-tools-used-c4cbb41d4710)
+The findings and the resualts of the code is availble [here](https://medium.com/@m.r.farhood/is-there-any-trend-change-in-tools-used-c4cbb41d4710)
 
 ## Licensing, Authors, Acknowledgements
-the licensing for the data is available [here](https://www.kaggle.com/haakakak/stack-overflow-developer-surveys-20152020)
+The licensing for the data is available [here](https://www.kaggle.com/haakakak/stack-overflow-developer-surveys-20152020)
