@@ -24,4 +24,4 @@ There is a `.ipynb` data as a copy of the Notebook with nessesary codes and can 
 The findings and the resualts of the code is availble [here](https://medium.com/@m.r.farhood/is-there-any-trend-change-in-tools-used-c4cbb41d4710)
 
 ## Licensing, Authors, Acknowledgements
-The licensing for the data is available [here](https://www.kaggle.com/haakakak/stack-overflow-developer-surveys-20152020)
+The findings and the results of the code is available [here](https://www.kaggle.com/haakakak/stack-overflow-developer-surveys-20152020)
