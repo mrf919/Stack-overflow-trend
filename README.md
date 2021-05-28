@@ -11,7 +11,11 @@ Analyzing the trends in Stack overflow
 ## Installation
 Stack overflow trend requires:
 - Python (>= 3.6)
-- no other library other than Anaconda distribution is needed 
+- the following libraries are needed to run the code:
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
 ## Project Motivation
 Answering the question of possible trends in the Stack over-flow data regarding the tools used by the developers.
 
